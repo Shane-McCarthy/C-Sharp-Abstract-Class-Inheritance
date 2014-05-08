@@ -1,0 +1,9 @@
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\bin\Debug\homework5_ver3.exe.config
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\obj\Debug\homework5_ver3.csprojResolveAssemblyReference.cache
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\bin\Debug\homework5_ver3.exe
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\bin\Debug\homework5_ver3.pdb
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\obj\Debug\homework5_ver3.exe
+c:\users\can you dig it\documents\visual studio 2012\Projects\homework5_ver3\obj\Debug\homework5_ver3.pdb
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\homework5_ver3_shane\bin\Debug\homework5_ver3.exe.config
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\homework5_ver3_shane\obj\Debug\homework5_ver3.exe
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\homework5_ver3_shane\obj\Debug\homework5_ver3.pdb
